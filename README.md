@@ -9,5 +9,5 @@ Ping-pong la dublu
 
  Despre
 
-  Jocul este creat pentru a fi jucat la dublu.Scopul jocului este ca fiecare jucator sa atinga cu paleta bila,in acelasi timp viteza creste dupa fiecare atingere .
+  Clasicul joc ping-pong la dublu.Scopul jocului este ca fiecare jucator sa atinga cu paleta bila,in acelasi timp viteza creste dupa fiecare atingere .
 Daca unul dintre acesti jucatori nu reuseste sa atinga bila scorul va creste pe LCD display in favoarea castigatorului.
